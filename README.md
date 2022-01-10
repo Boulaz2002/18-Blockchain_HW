@@ -1,6 +1,7 @@
 # 18-Blockchain_HW
 
-/screenshot/Screenshot_2022-01-09_19-01-59.png
+
+<img src="/screenshot/Screenshot_2022-01-09_19-01-59.png" style="width:800px;height:300px;">
 
 ## Instructions
 
