@@ -1,5 +1,7 @@
 # 18-Blockchain_HW
 
+/screenshot/Screenshot_2022-01-09_19-01-59.png
+
 ## Instructions
 
 1. Download and installed Go Ethereum Tools **"Geth & Tools 1.9.7"** and MyCrypto. You will need these tools in order to access ZBank's blockchain network and crypto wallets. 
