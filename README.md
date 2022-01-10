@@ -24,15 +24,20 @@
 
 
 
-## Accounts:
+## Accounts
+
 * node1 
 
 ** Public address of the key:   0xD3E3B5F97806742ee1ee3ab53180edb1dC0D2751
+
 ** Path of the secret key file: node1/keystore/UTC--2022-01-10T09-07-28.858291009Z--d3e3b5f97806742ee1ee3ab53180edb1dc0d2751
+
 ** Port: 30303
 
 * node2 
 
 ** Public address of the key:   0x38577877127C515f47dccE513cF39b9D7272D75b
+
 ** Path of the secret key file: node2/keystore/UTC--2022-01-10T09-08-09.757123959Z--38577877127c515f47dcce513cf39b9d7272d75b
+
 ** Port: 30304
